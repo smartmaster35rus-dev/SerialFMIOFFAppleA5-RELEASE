@@ -1,45 +1,63 @@
+# Apple A5 Find My Research — Release
 
+**Public release channel for A5 Find My status research**
 
-# SerialFMIOFFAppleA5
+[![Latest release](https://img.shields.io/github/v/release/smartmaster35rus-dev/SerialFMIOFFAppleA5-RELEASE?label=Windows&style=for-the-badge)](https://github.com/smartmaster35rus-dev/SerialFMIOFFAppleA5-RELEASE/releases/latest)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=for-the-badge&logo=windows)](https://github.com/smartmaster35rus-dev/SerialFMIOFFAppleA5-RELEASE/releases)
+[![Website](https://img.shields.io/badge/Site-smartmaster35rus--activator.ru-00c853?style=for-the-badge)](https://smartmaster35rus-activator.ru/)
 
-Утилита для macOS, предназначенная для работы с серийными номерами и вспомогательными ключами платформы Apple.
+<p align="center">
 
-![Скриншот приложения](IMAGE/screenshot2.png)
-![Скриншот приложения](IMAGE/screenshot3.png)
+[в¬‡пёЏ Download latest release](https://github.com/smartmaster35rus-dev/SerialFMIOFFAppleA5-RELEASE/releases/latest) В· [рџЊђ Activator site](https://smartmaster35rus-activator.ru/compatible.php)
 
-## Возможности
+</p>
 
-- Получение системной информации о вашем Mac
-- Генерация, анализ и проверка ключей (серийников, вспомогательных идентификаторов)
-- Автоматическая обработка и экспорт результатов
-- Совместимость с Intel и Apple Silicon (M1/M2 и новее)
-- Удобный графический интерфейс
+---
 
-## Требования
+## рџ‡·рџ‡є Рћ РїСЂРѕРіСЂР°РјРјРµ
 
-- macOS 11.5 или новее
-- Процессор Intel или Apple Silicon
+**SerialFMIOFF Apple A5 — Release** — публичный канал релизов утилиты исследования Find My для устройств **Apple A5**.
 
-## Установка
+## рџ‡¬рџ‡§ About
 
-1. Скачайте последнюю версию приложения из раздела [Releases](https://github.com/SmartMaster35Rus/SerialFMIOFFAppleA5/releases) на GitHub.
-2. Переместите `SerialFMIOFFAppleA5.app` в папку `Программы` (`/Applications`).
-3. Запустите приложение из папки программ.
+Public release repository for Apple A5 Find My status research utilities.
 
-## Быстрый старт
+---
 
-1. Откройте главное окно приложения.
-2. Воспользуйтесь нужным разделом:
-    - Получение информации о системе
-    - Генерация, анализ или проверка ключей
-    - Экспорт данных
-3. Следуйте подсказкам интерфейса.
+## вњЁ Key features
 
-## Внимание
+| Feature | Description |
+|---------|-------------|
+| 🔐 **Find My research** | A5 device workflows |
+| 📦 **Releases** | Signed builds for authorized users |
+| 📱 **A5 matrix** | Supported legacy models |
 
-Некоторые функции предназначены только для технических специалистов и владельцев устройств Apple.
+---
 
-## Лицензия
+## в¬‡пёЏ Download
 
-Проект распространяется по лицензии MIT. Полный текст лицензии — в файле [LICENSE](LICENSE).
+**[Releases](https://github.com/smartmaster35rus-dev/SerialFMIOFFAppleA5-RELEASE/releases/latest)**
 
+> Use only on devices you are permitted to service. Run Windows builds as Administrator when required.
+
+## рџ“‹ Requirements
+
+- **Windows** or tool-specific platform
+- **iOS 7 – 10.3.4**
+- Apple A5 device
+
+---
+
+## вљ–пёЏ Disclaimer
+
+РРЅСЃС‚СЂСѓРјРµРЅС‚ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ **Р°РІС‚РѕСЂРёР·РѕРІР°РЅРЅРѕРіРѕ СЃРµСЂРІРёСЃР° Рё РёСЃСЃР»РµРґРѕРІР°РЅРёР№** РЅР° СѓСЃС‚СЂРѕР№СЃС‚РІР°С…, РєРѕС‚РѕСЂС‹РјРё РІС‹ РІР»Р°РґРµРµС‚Рµ РёР»Рё РёРјРµРµС‚Рµ РїСЂР°РІРѕ РѕР±СЃР»СѓР¶РёРІР°С‚СЊ.
+
+For **authorized service and research** on devices you own or may service.
+
+---
+
+<p align="center">
+
+**SmartMaster35Rus** В· [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
+
+</p>

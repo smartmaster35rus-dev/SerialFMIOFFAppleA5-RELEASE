@@ -8,23 +8,23 @@
 
 <p align="center">
 
-[в¬‡пёЏ Download latest release](https://github.com/smartmaster35rus-dev/SerialFMIOFFAppleA5-RELEASE/releases/latest) В· [рџЊђ Activator site](https://smartmaster35rus-activator.ru/compatible.php)
+[⬇️ Download latest release](https://github.com/smartmaster35rus-dev/SerialFMIOFFAppleA5-RELEASE/releases/latest) · [🌐 Activator site](https://smartmaster35rus-activator.ru/compatible.php)
 
 </p>
 
 ---
 
-## рџ‡·рџ‡є Рћ РїСЂРѕРіСЂР°РјРјРµ
+## 🇷🇺 О программе
 
 **SerialFMIOFF Apple A5 — Release** — публичный канал релизов утилиты исследования Find My для устройств **Apple A5**.
 
-## рџ‡¬рџ‡§ About
+## 🇬🇧 About
 
 Public release repository for Apple A5 Find My status research utilities.
 
 ---
 
-## вњЁ Key features
+## ✨ Key features
 
 | Feature | Description |
 |---------|-------------|
@@ -34,13 +34,13 @@ Public release repository for Apple A5 Find My status research utilities.
 
 ---
 
-## в¬‡пёЏ Download
+## ⬇️ Download
 
 **[Releases](https://github.com/smartmaster35rus-dev/SerialFMIOFFAppleA5-RELEASE/releases/latest)**
 
 > Use only on devices you are permitted to service. Run Windows builds as Administrator when required.
 
-## рџ“‹ Requirements
+## 📋 Requirements
 
 - **Windows** or tool-specific platform
 - **iOS 7 – 10.3.4**
@@ -48,9 +48,9 @@ Public release repository for Apple A5 Find My status research utilities.
 
 ---
 
-## вљ–пёЏ Disclaimer
+## ⚖️ Disclaimer
 
-РРЅСЃС‚СЂСѓРјРµРЅС‚ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ **Р°РІС‚РѕСЂРёР·РѕРІР°РЅРЅРѕРіРѕ СЃРµСЂРІРёСЃР° Рё РёСЃСЃР»РµРґРѕРІР°РЅРёР№** РЅР° СѓСЃС‚СЂРѕР№СЃС‚РІР°С…, РєРѕС‚РѕСЂС‹РјРё РІС‹ РІР»Р°РґРµРµС‚Рµ РёР»Рё РёРјРµРµС‚Рµ РїСЂР°РІРѕ РѕР±СЃР»СѓР¶РёРІР°С‚СЊ.
+Инструмент предназначен для **авторизованного сервиса и исследований** на устройствах, которыми вы владеете или имеете право обслуживать.
 
 For **authorized service and research** on devices you own or may service.
 
@@ -58,6 +58,6 @@ For **authorized service and research** on devices you own or may service.
 
 <p align="center">
 
-**SmartMaster35Rus** В· [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
+**SmartMaster35Rus** · [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
 
 </p>
